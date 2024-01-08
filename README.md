@@ -5,3 +5,4 @@ Este proyecto CRUD, perdmite ingresar, editar y eliminar datos ingresados a la t
 Además se van ordenando de acuerdo al orden de ingreso.
 
 En la carpeta encontrarán los archivos index.html; style.css y app.js, en los cuales se trabajó el proyecto.
+https://proyectocrud.netlify.app
